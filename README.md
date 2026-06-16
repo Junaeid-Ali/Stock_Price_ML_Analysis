@@ -1,5 +1,5 @@
 # Stock_Price_ML_Analysis
-# Stock Price ML Analysis
+
 
 A machine learning internship project exploring a stock price dataset through three progressively advanced levels — from data preprocessing to classification and clustering. Each level builds on engineered features (date decomposition, label encoding, standard scaling) to predict and analyze stock price behavior.
 
